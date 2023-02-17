@@ -36,7 +36,7 @@ class manager extends employee // class two create
     }
 }
 
-$e1 = new employee("Ram kumar", 25, 15000);
+$e1 = new employee("Ram kumar", 25, 15000); // object create 
 $e2 = new manager("Vijay sharma", 35, 50000);
 
 $e1->info();
