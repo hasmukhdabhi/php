@@ -14,5 +14,5 @@ class derived extends base {
     }
 }
 
-$test = new base(5,10);
-echo $test->calc(5, 10);
+$test = new base(5,25);
+echo $test->calc(5, 25);
