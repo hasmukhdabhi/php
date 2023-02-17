@@ -9,8 +9,8 @@ abstract class parentClass{
 
 class childClass extends parentClass{
 	
-	public function	calc($c, $d){
-		echo $c + $d;
+	public function	calc($a, $b){
+		echo $a + $b;
 		// echo "Hello";
 	}
 		
